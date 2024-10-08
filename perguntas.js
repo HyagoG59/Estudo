@@ -1,7 +1,7 @@
 criaCartao(
     'Química',
     'Metais pesados:',
-    'Motorhead, Metallica, Decalius, Blade and Bath'
+    'Lifelover, Rammstein, Decalius, Blade and Bath'
 )
 
 criaCartao(
