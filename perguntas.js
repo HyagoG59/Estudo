@@ -5,9 +5,9 @@ criaCartao(
 )
 
 criaCartao(
-    '',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Sei lá',
+    'Oque esse cartão faz?',
+    ''
 )
 
 criaCartao(
